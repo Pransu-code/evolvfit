@@ -1,0 +1,55 @@
+[
+    {
+        "userid": 1,
+        "name": "Pransu Yadav",
+        "email": "pransu54321@gmail.com",
+        "stepsWalked": 2547,
+        "stepsTargeted": "4k",
+        "perfromedDate": "15 oct",
+        "scheduledDate": "22 oct",
+        "calorieIntake" : 2547,
+        "calorieTarget" : "2.5k",
+        "proteinConsumed" : 45,
+        "proteinTarget" : 70,
+        "carbsConsumed" : 50,
+        "carbsTarget" : 70,
+        "fatConsumed" : 30,
+        "fatTarget" : 70
+    },
+    
+    {
+        "userid": 2,
+        "name": "Pransu Yadav",
+        "email": "pransu54321@gmail.com",
+        "stepsWalked": 2547,
+        "stepsTargeted": "4k",
+        "perfromedDate": "15 oct",
+        "scheduledDate": "22 oct",
+        "calorieIntake" : 2547,
+        "calorieTarget" : "2.5k",
+        "proteinConsumed" : 45,
+        "proteinTarget" : 70,
+        "carbsConsumed" : 50,
+        "carbsTarget" : 70,
+        "fatConsumed" : 30,
+        "fatTarget" : 70
+    },
+
+    {
+        "userid": 3,
+        "name": "Pransu Yadav",
+        "email": "pransu54321@gmail.com",
+        "stepsWalked": 2547,
+        "stepsTargeted": "4k",
+        "perfromedDate": "15 oct",
+        "scheduledDate": "22 oct",
+        "calorieIntake" : 2547,
+        "calorieTarget" : "2.5k",
+        "proteinConsumed" : 45,
+        "proteinTarget" : 70,
+        "carbsConsumed" : 50,
+        "carbsTarget" : 70,
+        "fatConsumed" : 30,
+        "fatTarget" : 70
+    }
+]

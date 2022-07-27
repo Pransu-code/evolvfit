@@ -1,0 +1,37 @@
+.dashboard {
+    background-color: #E5E5E5;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.posts {
+    color: #fff;
+position: absolute;
+width: 950px;
+height: 501px;
+background: #101317;
+box-shadow: 2px 3px 42px rgba(0, 0, 0, 0.5);
+border-radius: 16px;
+}
+.contents {
+    color: #fff;
+}
+
+.contents {
+position: absolute;
+width:900px;
+height: 80px;
+left: 20px;
+top: 110px;
+
+background: #1E262F;
+border-radius: 10px;
+}
+.contents2 ul li {
+    justify-content: center;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 300px;     
+}
